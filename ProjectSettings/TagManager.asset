@@ -8,6 +8,13 @@ TagManager:
   - Fire
   - Water
   - Poison
+  - Fireboy
+  - Watergirl
+  - Box
+  - FireDoors
+  - WaterDoors
+  - RedDiamond
+  - BlueDiamond
   layers:
   - Default
   - TransparentFX
