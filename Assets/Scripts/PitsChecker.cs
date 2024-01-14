@@ -8,6 +8,18 @@ public class PitsChecker : MonoBehaviour
     public Transform fireboySpawnPoint;
     public Transform watergirlSpawnPoint;
 
+    [Header("FireExplosion")]
+    public GameObject FireExplosion;
+    public float firelifetime = 3;
+
+    [Header("WaterExplosion")]
+    public GameObject WaterExplosion;
+    public float waterlifetime = 3;
+
+    [Header("PoisonExplosion")]
+    public GameObject PoisonExplosion;
+    public float poisonlifetime = 3;
+
     void RespawnBoth(GameObject fireboy, GameObject watergirl)
     {
         
@@ -21,16 +33,35 @@ public class PitsChecker : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Water") && gameObject.CompareTag("Fireboy"))
         {
+            ExplosionWater();
             RespawnBoth(gameObject, GameObject.FindGameObjectWithTag("Watergirl"));
         }
 
         if (collision.gameObject.CompareTag("Fire") && gameObject.CompareTag("Watergirl"))
         {
+            ExplosionFire();
             RespawnBoth(GameObject.FindGameObjectWithTag("Fireboy"), gameObject);
         }
         if (collision.gameObject.CompareTag("Poison"))
         {
+            ExplosionPoison();
             RespawnBoth(GameObject.FindGameObjectWithTag("Fireboy"), GameObject.FindGameObjectWithTag("Watergirl"));
         }
+    }
+
+
+    private void ExplosionFire()
+    {
+        Instantiate(FireExplosion, transform.position, Quaternion.identity);
+    }
+
+    private void ExplosionWater()
+    {
+        Instantiate(WaterExplosion, transform.position, Quaternion.identity);
+    }
+
+    private void ExplosionPoison()
+    {
+        Instantiate(PoisonExplosion, transform.position, Quaternion.identity);
     }
 }

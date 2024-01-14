@@ -1,0 +1,1132 @@
+fileFormatVersion: 2
+guid: 944c106375133b14c8641f93defc1f10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5046345940187704252
+    second: PoisonExplosion_0
+  - first:
+      213: -4876212308907155984
+    second: PoisonExplosion_1
+  - first:
+      213: 5749636013255478128
+    second: PoisonExplosion_2
+  - first:
+      213: 6623979893282228527
+    second: PoisonExplosion_3
+  - first:
+      213: 1982117550155952382
+    second: PoisonExplosion_4
+  - first:
+      213: 6955701828816984014
+    second: PoisonExplosion_5
+  - first:
+      213: 1885528850405874092
+    second: PoisonExplosion_6
+  - first:
+      213: -3973859988516899302
+    second: PoisonExplosion_7
+  - first:
+      213: -6338795794231279406
+    second: PoisonExplosion_8
+  - first:
+      213: -5835978867117513197
+    second: PoisonExplosion_9
+  - first:
+      213: 6136961032228549348
+    second: PoisonExplosion_10
+  - first:
+      213: 2432894274832908347
+    second: PoisonExplosion_11
+  - first:
+      213: -5501154924870817669
+    second: PoisonExplosion_12
+  - first:
+      213: 6789130381002826223
+    second: PoisonExplosion_13
+  - first:
+      213: -5630856402940696069
+    second: PoisonExplosion_14
+  - first:
+      213: -7845092129255057479
+    second: PoisonExplosion_15
+  - first:
+      213: -8214674722209467672
+    second: PoisonExplosion_16
+  - first:
+      213: -4789093101009217582
+    second: PoisonExplosion_17
+  - first:
+      213: -1907768399428813885
+    second: PoisonExplosion_18
+  - first:
+      213: 5691860566466682136
+    second: PoisonExplosion_19
+  - first:
+      213: 485121567070301257
+    second: PoisonExplosion_20
+  - first:
+      213: -3113448921769838031
+    second: PoisonExplosion_21
+  - first:
+      213: 2808375344348856867
+    second: PoisonExplosion_22
+  - first:
+      213: -7524940260401481465
+    second: PoisonExplosion_23
+  - first:
+      213: 4423782500287646262
+    second: PoisonExplosion_24
+  - first:
+      213: 3428432998790948608
+    second: PoisonExplosion_25
+  - first:
+      213: -2995411311829941295
+    second: PoisonExplosion_26
+  - first:
+      213: -4024841014000428373
+    second: PoisonExplosion_27
+  - first:
+      213: -7443903442020523680
+    second: PoisonExplosion_28
+  - first:
+      213: -2282800612993533161
+    second: PoisonExplosion_29
+  - first:
+      213: 5215962975740697773
+    second: PoisonExplosion_30
+  - first:
+      213: -1194773961881765606
+    second: PoisonExplosion_31
+  - first:
+      213: 1185642927710109813
+    second: PoisonExplosion_32
+  - first:
+      213: 2012319165449333906
+    second: PoisonExplosion_33
+  - first:
+      213: -4920083616954867465
+    second: PoisonExplosion_34
+  - first:
+      213: 4161191617356697857
+    second: PoisonExplosion_35
+  - first:
+      213: -197632991376593062
+    second: PoisonExplosion_36
+  - first:
+      213: -1686614500872065848
+    second: PoisonExplosion_37
+  - first:
+      213: -2245324593944727549
+    second: PoisonExplosion_38
+  - first:
+      213: -1488266757390009958
+    second: PoisonExplosion_39
+  - first:
+      213: -865394641520446151
+    second: PoisonExplosion_40
+  - first:
+      213: 5744854810750112716
+    second: PoisonExplosion_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoisonExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 389
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb6f9a55e8380640800000000000000
+      internalID: 5046345940187704252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd93368db6345cb0800000000000000
+      internalID: -4876212308907155984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 326
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bc2edbd7fcacf40800000000000000
+      internalID: 5749636013255478128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 326
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ca6a1e9a1deb50800000000000000
+      internalID: 6623979893282228527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 326
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fc100965e18b10800000000000000
+      internalID: 1982117550155952382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 315
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7db2ed5fd978060800000000000000
+      internalID: 6955701828816984014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 315
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9513edf7eba2a10800000000000000
+      internalID: 1885528850405874092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 315
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16ff4515630ad8c0800000000000000
+      internalID: -3973859988516899302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 221
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ca1d3fc21808a0800000000000000
+      internalID: -6338795794231279406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31626c40420720fa0800000000000000
+      internalID: -5835978867117513197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 199
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b5663b8dda2550800000000000000
+      internalID: 6136961032228549348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 175
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304f73f37063c120800000000000000
+      internalID: 2432894274832908347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782fa00eb8f7a3b0800000000000000
+      internalID: -5501154924870817669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 175
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe16c757c16d73e50800000000000000
+      internalID: 6789130381002826223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 175
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf96c716fed2bd1b0800000000000000
+      internalID: -5630856402940696069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 164
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b71a850642a02390800000000000000
+      internalID: -7845092129255057479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 175
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2f2550ddc9ffd80800000000000000
+      internalID: -8214674722209467672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 164
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75216c239b98db0800000000000000
+      internalID: -4789093101009217582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb745e9fbe3685e0800000000000000
+      internalID: -1907768399428813885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ddc47470d8dfe40800000000000000
+      internalID: 5691860566466682136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 28
+        width: 141
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2b16be7f7bb600800000000000000
+      internalID: 485121567070301257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af59f83becac4d0800000000000000
+      internalID: -3113448921769838031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 118
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32201eb0f7a59f620800000000000000
+      internalID: 2808375344348856867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709fbb6b3ba029790800000000000000
+      internalID: -7524940260401481465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 84
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a0c3deebe646d30800000000000000
+      internalID: 4423782500287646262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 118
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0076925d5ad349f20800000000000000
+      internalID: 3428432998790948608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 121
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3803248492e66d0800000000000000
+      internalID: -2995411311829941295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 115
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad41b1c64e428c0800000000000000
+      internalID: -4024841014000428373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 103
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0612f0c4241f1b890800000000000000
+      internalID: -7443903442020523680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 62
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf971ffecd150e0800000000000000
+      internalID: -2282800612993533161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 78
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1d9ae0b2d26840800000000000000
+      internalID: 5215962975740697773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 46
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b62f696f4b6fe0800000000000000
+      internalID: -1194773961881765606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5708d9006ff347010800000000000000
+      internalID: 1185642927710109813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 55
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c61578e913deb10800000000000000
+      internalID: 2012319165449333906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0af22a40a58bbb0800000000000000
+      internalID: -4920083616954867465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 24
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10111e2aab58fb930800000000000000
+      internalID: 4161191617356697857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa91967ddd14df0800000000000000
+      internalID: -197632991376593062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6f7a2c01f798e0800000000000000
+      internalID: -1686614500872065848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 24
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300f9749d2107d0e0800000000000000
+      internalID: -2245324593944727549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 24
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99feb2f44d985be0800000000000000
+      internalID: -1488266757390009958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 24
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935b5a998208df3f0800000000000000
+      internalID: -865394641520446151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoisonExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 24
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc354f84303d9bf40800000000000000
+      internalID: 5744854810750112716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
