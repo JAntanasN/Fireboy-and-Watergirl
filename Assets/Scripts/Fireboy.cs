@@ -82,16 +82,12 @@ public class Fireboy : MonoBehaviour
 
         if (collision.gameObject.CompareTag("BlueDiamond"))
         {
-            // Disable collisions between the two cubes
             Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
         }
 
         if (collision.gameObject.CompareTag("RedDiamond"))
         {
-            // Deactivate the collided diamond
             collision.gameObject.SetActive(false);
-
-            // Notify the GameController that a diamond is collected
             redDiamonds.CollectDiamond();
         }
     }
