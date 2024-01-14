@@ -8907,6 +8907,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fireboySpawnPoint: {fileID: 232134645}
   watergirlSpawnPoint: {fileID: 2016468097}
+  FireExplosion: {fileID: 6430923977598170031, guid: ab38c6f5b7bfd3c4291d142b32a2d885, type: 3}
+  firelifetime: 3
+  WaterExplosion: {fileID: 6430923977598170031, guid: 0b3059dad979af9438000f59756392cc, type: 3}
+  waterlifetime: 3
+  PoisonExplosion: {fileID: 6430923977598170031, guid: 6e865a964e553cf42bb645fe94076af2, type: 3}
+  poisonlifetime: 3
 --- !u!1 &1215322995
 GameObject:
   m_ObjectHideFlags: 0
@@ -16531,6 +16537,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fireboySpawnPoint: {fileID: 232134645}
   watergirlSpawnPoint: {fileID: 2016468097}
+  FireExplosion: {fileID: 6430923977598170031, guid: ab38c6f5b7bfd3c4291d142b32a2d885, type: 3}
+  firelifetime: 3
+  WaterExplosion: {fileID: 6430923977598170031, guid: 0b3059dad979af9438000f59756392cc, type: 3}
+  waterlifetime: 3
+  PoisonExplosion: {fileID: 6430923977598170031, guid: 6e865a964e553cf42bb645fe94076af2, type: 3}
+  poisonlifetime: 3
 --- !u!1 &2140547993
 GameObject:
   m_ObjectHideFlags: 0
