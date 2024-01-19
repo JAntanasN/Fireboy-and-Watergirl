@@ -19,7 +19,6 @@ public class Button : MonoBehaviour
     {
         if ((collision.gameObject.CompareTag("Fireboy") || collision.gameObject.CompareTag("Watergirl")))
         {
-            // Only start moving down if the platform is not already moving
             if (!isMovingDown && !isMovingUp)
             {
                 StartCoroutine(MovePlatformDown());
@@ -31,7 +30,6 @@ public class Button : MonoBehaviour
     {
         if ((collision.gameObject.CompareTag("Fireboy") || collision.gameObject.CompareTag("Watergirl")))
         {
-            // Only start moving up if the platform is not already moving
             if (!isMovingDown && !isMovingUp)
             {
                 StartCoroutine(MovePlatformUp());

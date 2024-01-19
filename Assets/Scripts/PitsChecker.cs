@@ -20,6 +20,7 @@ public class PitsChecker : MonoBehaviour
     public GameObject PoisonExplosion;
     public float poisonlifetime = 3;
 
+
     void RespawnBoth(GameObject fireboy, GameObject watergirl)
     {
         

@@ -253,6 +253,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1316,7 +1328,57 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireExplosion_0: 5855692299467152017
+      FireExplosion_1: -6288385268471575898
+      FireExplosion_10: 8475139131381405137
+      FireExplosion_11: -4245193943483488369
+      FireExplosion_12: -8434247205233045705
+      FireExplosion_13: 464352331445789118
+      FireExplosion_14: -7936160114164730786
+      FireExplosion_15: 2225242328886005934
+      FireExplosion_16: 229728703946962152
+      FireExplosion_17: 6518093052614307041
+      FireExplosion_18: 3912056336627608260
+      FireExplosion_19: -8497974792143795133
+      FireExplosion_2: 1984887081138021505
+      FireExplosion_20: -6481806612061521940
+      FireExplosion_21: -2886124702352552144
+      FireExplosion_22: -5582874122054040334
+      FireExplosion_23: -6388334266081853621
+      FireExplosion_24: 1258396456263535030
+      FireExplosion_25: 5598388497982936553
+      FireExplosion_26: -354402161791099234
+      FireExplosion_27: -5479914029593761661
+      FireExplosion_28: 8951805835677474707
+      FireExplosion_29: 735475675134651227
+      FireExplosion_3: -5408962254417000380
+      FireExplosion_30: 5179048901252431268
+      FireExplosion_31: -8329080207493711355
+      FireExplosion_32: 2596545899568499487
+      FireExplosion_33: 8763408426108165827
+      FireExplosion_34: -7080211527695688
+      FireExplosion_35: 8610328794250057770
+      FireExplosion_36: -3834869175634986983
+      FireExplosion_37: 7839753689118138344
+      FireExplosion_38: -8261618212146942217
+      FireExplosion_39: 8459967439426149576
+      FireExplosion_4: 7617473522172753167
+      FireExplosion_40: 3630561423905731060
+      FireExplosion_41: -3567253176654752142
+      FireExplosion_42: -1336819740922244427
+      FireExplosion_43: -4711479461472121835
+      FireExplosion_44: -8765571997342673558
+      FireExplosion_45: -1696084180561276232
+      FireExplosion_46: -6933299041069485425
+      FireExplosion_47: 1776979264542823448
+      FireExplosion_48: 8523751404142883501
+      FireExplosion_49: -8831318054779194267
+      FireExplosion_5: 7193771107509834807
+      FireExplosion_6: 5614720194275802600
+      FireExplosion_7: 3869173685599489011
+      FireExplosion_8: 513255282678276485
+      FireExplosion_9: 2011665883872197299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

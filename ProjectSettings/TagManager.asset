@@ -15,6 +15,10 @@ TagManager:
   - WaterDoors
   - RedDiamond
   - BlueDiamond
+  - FireDoors2
+  - WaterDoors2
+  - FireDoors3
+  - WaterDoors3
   layers:
   - Default
   - TransparentFX

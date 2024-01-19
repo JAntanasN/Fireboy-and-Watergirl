@@ -229,6 +229,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1124,7 +1136,49 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PoisonExplosion_0: 5046345940187704252
+      PoisonExplosion_1: -4876212308907155984
+      PoisonExplosion_10: 6136961032228549348
+      PoisonExplosion_11: 2432894274832908347
+      PoisonExplosion_12: -5501154924870817669
+      PoisonExplosion_13: 6789130381002826223
+      PoisonExplosion_14: -5630856402940696069
+      PoisonExplosion_15: -7845092129255057479
+      PoisonExplosion_16: -8214674722209467672
+      PoisonExplosion_17: -4789093101009217582
+      PoisonExplosion_18: -1907768399428813885
+      PoisonExplosion_19: 5691860566466682136
+      PoisonExplosion_2: 5749636013255478128
+      PoisonExplosion_20: 485121567070301257
+      PoisonExplosion_21: -3113448921769838031
+      PoisonExplosion_22: 2808375344348856867
+      PoisonExplosion_23: -7524940260401481465
+      PoisonExplosion_24: 4423782500287646262
+      PoisonExplosion_25: 3428432998790948608
+      PoisonExplosion_26: -2995411311829941295
+      PoisonExplosion_27: -4024841014000428373
+      PoisonExplosion_28: -7443903442020523680
+      PoisonExplosion_29: -2282800612993533161
+      PoisonExplosion_3: 6623979893282228527
+      PoisonExplosion_30: 5215962975740697773
+      PoisonExplosion_31: -1194773961881765606
+      PoisonExplosion_32: 1185642927710109813
+      PoisonExplosion_33: 2012319165449333906
+      PoisonExplosion_34: -4920083616954867465
+      PoisonExplosion_35: 4161191617356697857
+      PoisonExplosion_36: -197632991376593062
+      PoisonExplosion_37: -1686614500872065848
+      PoisonExplosion_38: -2245324593944727549
+      PoisonExplosion_39: -1488266757390009958
+      PoisonExplosion_4: 1982117550155952382
+      PoisonExplosion_40: -865394641520446151
+      PoisonExplosion_41: 5744854810750112716
+      PoisonExplosion_5: 6955701828816984014
+      PoisonExplosion_6: 1885528850405874092
+      PoisonExplosion_7: -3973859988516899302
+      PoisonExplosion_8: -6338795794231279406
+      PoisonExplosion_9: -5835978867117513197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

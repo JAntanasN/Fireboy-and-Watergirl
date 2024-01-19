@@ -19,7 +19,7 @@ public class Lever : MonoBehaviour
     private Renderer objectRenderer;
     private bool isLeverActivated = false;
     private bool isMoving = false;
-    private bool isMovingDown = false; // Track the current direction
+    private bool isMovingDown = false;
 
     void Start()
     {
@@ -44,8 +44,6 @@ public class Lever : MonoBehaviour
         if ((collision.gameObject.CompareTag("Fireboy") || collision.gameObject.CompareTag("Watergirl")) && !isLeverActivated)
         {
             isLeverActivated = true;
-            //invisibleLever.SetActive(true);
-            //objectRenderer.enabled = !objectRenderer.enabled;
         }
     }
 
@@ -54,7 +52,6 @@ public class Lever : MonoBehaviour
         if ((collision.gameObject.CompareTag("Fireboy") || collision.gameObject.CompareTag("Watergirl")) && isLeverActivated)
         {
             isLeverActivated = false;
-            //invisibleLever.SetActive(false);
         }
     }
 
@@ -79,7 +76,7 @@ public class Lever : MonoBehaviour
     IEnumerator MovePlatformDown()
     {
         isMoving = true;
-        isMovingDown = true; // Set the current direction to down
+        isMovingDown = true;
         Vector3 startPosition = platform.transform.position;
         Vector3 endPosition = startPosition - new Vector3(0, platformLowerDistance, 0);
 
@@ -93,7 +90,6 @@ public class Lever : MonoBehaviour
             yield return null;
         }
 
-        // Ensure the platform reaches the exact position
         platform.transform.position = endPosition;
         isMoving = false;
     }
@@ -101,7 +97,7 @@ public class Lever : MonoBehaviour
     IEnumerator MovePlatformUp()
     {
         isMoving = true;
-        isMovingDown = false; // Set the current direction to up
+        isMovingDown = false;
         Vector3 startPosition = platform.transform.position;
         Vector3 endPosition = startPosition + new Vector3(0, platformLowerDistance, 0);
 
@@ -115,7 +111,6 @@ public class Lever : MonoBehaviour
             yield return null;
         }
 
-        // Ensure the platform reaches the exact position
         platform.transform.position = endPosition;
         isMoving = false;
     }

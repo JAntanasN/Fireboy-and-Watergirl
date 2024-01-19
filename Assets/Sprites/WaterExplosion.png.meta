@@ -208,6 +208,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -956,7 +968,42 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WaterExplosion_0: -88961055859071796
+      WaterExplosion_1: -3182134242641657781
+      WaterExplosion_10: 8930996025132204718
+      WaterExplosion_11: 1374489364400697246
+      WaterExplosion_12: 2692787869501298495
+      WaterExplosion_13: -5121603452949108455
+      WaterExplosion_14: 8464959797280500657
+      WaterExplosion_15: -6097753368053171095
+      WaterExplosion_16: 2308709696779472513
+      WaterExplosion_17: 5693246518390158061
+      WaterExplosion_18: 3158274421902220354
+      WaterExplosion_19: 1714956025321871456
+      WaterExplosion_2: -4482046596646850403
+      WaterExplosion_20: -8435016492570990919
+      WaterExplosion_21: 1924590542165936111
+      WaterExplosion_22: -8078651855207092275
+      WaterExplosion_23: -4112555766231255508
+      WaterExplosion_24: 1965708626838509449
+      WaterExplosion_25: 2842208878098913157
+      WaterExplosion_26: 4548492612347484258
+      WaterExplosion_27: -3099850611403868332
+      WaterExplosion_28: -9011150414832463149
+      WaterExplosion_29: -6069096396877916929
+      WaterExplosion_3: -72719542739966857
+      WaterExplosion_30: -3828832116419131166
+      WaterExplosion_31: 7218126583294502310
+      WaterExplosion_32: 926097798245690019
+      WaterExplosion_33: -239206796447908117
+      WaterExplosion_34: -5632547986550274745
+      WaterExplosion_4: -2056207476604065226
+      WaterExplosion_5: -3327023583266875897
+      WaterExplosion_6: -3062317404545217325
+      WaterExplosion_7: -1411498151050691524
+      WaterExplosion_8: 3576757484783970961
+      WaterExplosion_9: -2737774339809110507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
